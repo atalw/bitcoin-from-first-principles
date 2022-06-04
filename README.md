@@ -29,6 +29,7 @@
 ### Mining
 - [Hashrate](https://en.bitcoinwiki.org/wiki/Hashrate)
 - [Mining pool](https://en.wikipedia.org/wiki/Mining_pool)
+- [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
 
 ## Further reading
 - [Ethereum introduction](https://bitcoinmagazine.com/business/ethereum-next-generation-cryptocurrency-decentralized-application-platform-1390528211)
