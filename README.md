@@ -26,5 +26,8 @@
 ### Script
 - [Assembly and Computer Architecture](https://youtu.be/L1ung0wil9Y)
 
+### Mining
+- [Hashrate](https://en.bitcoinwiki.org/wiki/Hashrate)
+
 ## Further reading
 - [Ethereum introduction](https://bitcoinmagazine.com/business/ethereum-next-generation-cryptocurrency-decentralized-application-platform-1390528211)
