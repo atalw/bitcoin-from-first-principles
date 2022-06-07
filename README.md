@@ -33,3 +33,4 @@
 
 ## Further reading
 - [Ethereum introduction](https://bitcoinmagazine.com/business/ethereum-next-generation-cryptocurrency-decentralized-application-platform-1390528211)
+- [Cracking Enigma in 2021](https://www.youtube.com/watch?v=RzWB5jL5RX0)
